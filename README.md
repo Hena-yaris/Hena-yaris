@@ -1,4 +1,4 @@
-![logo](https://github.com/Hena-yaris/Hena-yaris/blob/main/Git%20Banner.jpg)
+![logo](https://github.com/Hena-yaris/Hena-yaris/blob/main/Git%20Banner%20.jpg)
 <h1 align="center">Hi 👋, I'm Henok</h1>
 <h3 align="center">A passionate fullstack developer from Ethiopia</h3>
 
