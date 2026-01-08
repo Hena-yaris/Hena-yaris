@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Hena-yaris/Hena-yaris/raw/main/A_digital_banner_features_a_clean,_minimalist_desi.png" alt="Henok Banner" width="100%" />
+  <img src="https://github.com/Hena-yaris/Hena-yaris/blob/main/github%20%20banner.png" alt="Henok Banner" width="100%" />
 </p>
 
 <p align="center">
@@ -70,3 +70,4 @@ A web platform for managing student tournaments, fixtures, standings, and result
 ---
 
 > Building consistently. Improving daily.
+
