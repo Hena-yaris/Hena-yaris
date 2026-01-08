@@ -1,10 +1,11 @@
 
 
 
-# Henok
+# Henok Tesfay
 
-**Junior Full-Stack Developer**  
-Building clean, functional web applications with a focus on clarity and structure.
+**Full-Stack Developer**  
+Building clean, functional web applications with a focus on clarity, structure, and maintainable code.
+
 
 ---
 <p align="center">
@@ -20,7 +21,8 @@ Building clean, functional web applications with a focus on clarity and structur
 </p>
 
 ## Focus
-Currently focused on **React** and modern frontend development, while steadily building full-stack fundamentals with **Node.js**.
+Building web applications with **React + Next.js**, focusing on clean architecture and thoughtful UI design, while growing full-stack expertise with **Node.js**.
+
 
 ---
 
@@ -37,12 +39,11 @@ Currently focused on **React** and modern frontend development, while steadily b
 - Express
 - REST APIs
 
-**Mobile (learning)**
+**Mobile (learning & using)**
 - React Native
 
 **Tools**
 - Git & GitHub
-- Linux
 - Figma
 
 ---
@@ -66,5 +67,6 @@ A web platform for managing student tournaments, fixtures, standings, and result
 ---
 
 > Building consistently. Improving daily.
+
 
 
