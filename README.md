@@ -1,20 +1,5 @@
-<p align="center">
-  <img src="https://github.com/Hena-yaris/Hena-yaris/blob/main/github%20%20banner.png" alt="Henok Banner" width="100%" />
-</p>
 
-<p align="center">
-  <a href="https://henayaris.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-cyan?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/henayaris/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:meraey21@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Message-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
 
----
 
 # Henok
 
@@ -22,6 +7,17 @@
 Building clean, functional web applications with a focus on clarity and structure.
 
 ---
+<p align="center">
+  <a href="https://henayaris.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-cyan?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/henayaris" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:meraey21@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Message-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ## Focus
 Currently focused on **React** and modern frontend development, while steadily building full-stack fundamentals with **Node.js**.
@@ -57,7 +53,7 @@ Currently focused on **React** and modern frontend development, while steadily b
 A web platform for managing student tournaments, fixtures, standings, and results.
 
 - *Signal:* Structured state management and reusable UI components
-- [Live Demo](https://henayaris.netlify.app) / [Repository](LINK_TO_REPO)
+- [Live Demo](https://menschenarena.netlify.app/) / [Repository](https://github.com/Hena-yaris/menschen-arena-cup)
 
 
 ---
@@ -70,4 +66,5 @@ A web platform for managing student tournaments, fixtures, standings, and result
 ---
 
 > Building consistently. Improving daily.
+
 
