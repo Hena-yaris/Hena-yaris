@@ -5,9 +5,6 @@
 ---
 
 <p align="center">
-  <a href="https://henayaris.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
   <a href="https://www.linkedin.com/in/henayaris" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -71,7 +68,10 @@ My work is driven by **አገልግሎት (Service)** the conviction that a deve
 ---
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=hena-yaris&show_icons=true&theme=transparent&hide_border=true&title_color=00d1ff&icon_color=00d1ff&text_color=ffffff" height="150" />
+  <img 
+    src="https://streak-stats.demolab.com?user=hena-yaris&theme=tokyonight&hide_border=true"
+    height="150"
+  />
 </p>
 
 > *Engineering with intent. Building for the future.*
