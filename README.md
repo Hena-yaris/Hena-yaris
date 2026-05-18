@@ -3,8 +3,10 @@
 **Full-Stack Developer | Software Engineer** Specializing in high performance Web Applications with a focus on clean architecture, minimalist UI/UX, and the intersection of technology and heritage.
 
 ---
-
 <p align="center">
+   <a href="https://henok-tesfay.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Visit-Portfolio-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=000000&color=000000" />
+  </a>
   <a href="https://www.linkedin.com/in/henayaris" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
